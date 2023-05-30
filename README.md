@@ -14,21 +14,21 @@
 
 # My projects:
 
-## <img style="margin: 1px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" />
+## <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" />
 
-<img style="margin: 1px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" />
-<img style="margin: 1px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="30" />
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" />
+<img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="30" />
 <p>Сайт для изучения иностранных слов https://github.com/OlgaKoltc/React-project </p>
 
-## <img style="margin: 1px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" />
+## <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" />
 
-<img style="margin: 1px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="30" />
-<img style="margin: 1px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" />
+<img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="30" />
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" />
 <p>Сайт интернет-магазина https://github.com/OlgaKoltc/JS-project-Shop</p>
 
-## <img style="margin: 1px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" />
+## <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" />
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
 
 <p>Сайтэкскурсии на квадрациклах https://github.com/OlgaKoltc/cfmoto</p>
 
