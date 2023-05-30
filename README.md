@@ -20,6 +20,8 @@
 <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="30" />
 <p>Сайт для изучения иностранных слов https://github.com/OlgaKoltc/React-project </p></div>
 
+###
+
 ## <p><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" />
 
 <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="30" />
