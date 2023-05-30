@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
+</div>
 
 ### <div align="center">Меня зовут Оля, я начинающий frontend-разработчик 👨‍💻 В апреле 2022 года я начала свой путь в it 🚀</div>
 
@@ -12,6 +11,19 @@
 - ⚡ Fun fact: являюсь мастером спорта по пауэрлифтингу
 
 <br/>
+
+# My projects:
+
+## <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>
+
+<p>Сайт для изучения иностранных слов</p>(https://github.com/OlgaKoltc/React-project)
+
+## [добавь ярлычки технологийСайт интернет-магазина](https://github.com/OlgaKoltc/JS-project-Shop)
+
+## [добавь ярлычки технологийСайтэкскурсии на квадрациклах](https://github.com/OlgaKoltc/cfmoto)
 
 ## My Skill Set
 
@@ -54,8 +66,7 @@
 <a href="https://instagram.com/https://instagram.com/olga_koltc?igshid=YmMyMTA2M2Y=" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
@@ -75,8 +86,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-
+</div>
 
 <br/>
 
