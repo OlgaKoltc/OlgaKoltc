@@ -24,7 +24,7 @@
 
 ## <div align="center"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" /><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" /></div>
 
-<p>Сайтэкскурсии на квадрациклах https://github.com/OlgaKoltc/cfmoto</p>
+<p>Сайт экскурсии на квадрациклах https://github.com/OlgaKoltc/cfmoto</p>
 
 ## My Skill Set
 
