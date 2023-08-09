@@ -4,16 +4,13 @@
 
 ### <div align="center">Привет! Я Ольга - frontend-разработчик из Москвы 👨‍💻 В апреле 2022 года я начала свой путь в it 🚀</div>
 
-- 🔭 Разрабатываю интерфейсы на Javascript, ReactJS
-
-- 🌱Изучаю Redux и React-redux
-
+- 🔭 Разрабатываю интерфейсы на Javascript, ReactJS, React-redux, TS
+- 🌱Изучаю TypeScript
 - ⚡ Fun fact: являюсь мастером спорта по пауэрлифтингу
 
 <br/>
 
 # My projects:
-
 ## <div align="center"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" /><img style="margin-right: 1px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" /><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="30" />
 
 <p>Сайт для изучения иностранных слов https://github.com/OlgaKoltc/React-project </p></div>
