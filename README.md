@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">Меня зовут Оля, я начинающий frontend-разработчик 👨‍💻 В апреле 2022 года я начала свой путь в it 🚀</div>
+### <div align="center">Превет! Я Ольга - frontend-разработчик из Москвы 👨‍💻 В апреле 2022 года я начала свой путь в it 🚀</div>
 
 - 🔭 Разрабатываю интерфейсы на Javascript, ReactJS
 
